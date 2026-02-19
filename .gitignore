@@ -1,0 +1,9 @@
+venv
+result/*
+start.bat
+*.db
+data.txt
+history.txt
+__pycache__
+*.sqlite3-query
+data.txt
